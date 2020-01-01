@@ -1,0 +1,19 @@
+@charset "UTF-8";
+/* CSS Document */
+
+	
+body {
+	font-family: "Gotham", sans-serif;
+	background-color: aliceblue;
+	font-size: 1.2em;
+}
+
+	
+h1,h2,h5 {text-align: center;}
+
+
+
+.not {
+	color:red
+}
+
